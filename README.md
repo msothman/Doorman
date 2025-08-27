@@ -80,9 +80,6 @@ The script will:
 
 ## 📜 License
 
-MIT License © 2025 \[Your Name]
+MIT License © 2025 \ msothman
 
 ---
-
-⚠️ **Disclaimer:** Project Doorman was built for **educational and portfolio purposes**.
-Test thoroughly before deploying in production environments.
