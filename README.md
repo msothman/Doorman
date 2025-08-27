@@ -36,7 +36,7 @@ project-doorman/
 
 ```bash
 git clone https://github.com/msothman/Doorman/
-cd project-doorman
+cd Doorman
 ```
 
 ### 2. Make the script executable
