@@ -24,7 +24,7 @@ It provides role-based access control (RBAC), automated user and group managemen
 
 ```
 project-doorman/
-├── enterprise-security-setup.sh   # Main deployment script
+├── Doorman.sh   # Main deployment script
 ├── README.md                      # Documentation
 ```
 
@@ -35,17 +35,17 @@ project-doorman/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/project-doorman.git
+git clone https://github.com/msothman/Doorman/
 cd project-doorman
 ```
 
 ### 2. Make the script executable
 
 ```bash
-chmod +x enterprise-security-setup.sh
+chmod +x Doorman.sh
 ```
 
-### 3. (Optional) Customize configuration
+### 3. Customize configuration
 
 Open the script and edit the **CONFIGURATION** section at the top to match your environment:
 
@@ -57,7 +57,7 @@ Open the script and edit the **CONFIGURATION** section at the top to match your 
 ### 4. Run the script (as root)
 
 ```bash
-sudo ./enterprise-security-setup.sh
+sudo ./Doorman.sh
 ```
 
 The script will:
