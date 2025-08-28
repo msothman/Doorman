@@ -23,7 +23,7 @@ It provides role-based access control (RBAC), automated user and group managemen
 ## 📂 Repository Structure
 
 ```
-project-doorman/
+Doorman/
 ├── Doorman.sh   # Main deployment script
 ├── README.md                      # Documentation
 ```
