@@ -39,6 +39,7 @@ Designed for repeatable, auditable infrastructure provisioning across Debian and
 ```bash
 git clone https://github.com/msothman/Doorman.git
 cd Doorman
+sed -i 's/\r$//' Doorman.sh (if you run into any issues refer to this command)
 chmod +x Doorman.sh
 ```
 
